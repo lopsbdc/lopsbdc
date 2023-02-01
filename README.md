@@ -1,16 +1,25 @@
-### Hi there 👋
+## Olá, bem vindo ao meu perfil! 👋
 
-<!--
-**lopsbdc/lopsbdc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=lopsbdc&show_icons=true&theme=radical"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=lopsbdc&show_icons=true"
+  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=lopsbdc&show_icons=true" />
+</div>
 
-Here are some ideas to get you started:
+- 🔭 Atualmente trabalho criando bots de automação em Python
+- 🌱 Estou criando um gerenciador de players de RPG de mesa usando Python, Django e React
+- 👯 Busco uma oportunidade para ingressar na área de T.I.
+- 💬 Gosto de fazer conteúdos 4fun (como por exemplo, gerador de memes)
+- ⚡ Fun fact: Tenho um bot de música para discord, e um jogo de RPG para PC e Android!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div> 
+    <a href = "mailto:lopsbdc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/matheus-henrique-7b14a323b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
